@@ -27,11 +27,16 @@ const handler = async (m, { isPrems, conn }) => {
 
   const texto = `
 ╭━〔 Cσϝɾҽ Aʅҽαƚσɾισ 〕⬣
-┃📦 *Obtienes Un Cofre*
+┃📦 *As Encontrado un
+┃un cofre en lo profundo
+┃de la montaña*
+┃
 ┃ ¡Felicidades!
 ╰━━━━━━━━━━━━⬣
+Mira que encontraste en el cofre
 
-╭━〔 Nυҽʋσʂ Rҽƈυɾʂσʂ 〕⬣
+╭━〔 RECURSOS ENCONTRADOS 〕⬣
+┃     !FELICIDADES¡
 ┃ *${dia} ${moneda}* 💸
 ┃ *${tok} Tokens* ⚜️
 ┃ *${ai} Diamantes* 💎
