@@ -16,123 +16,64 @@ global.botNumber = '' //Ejemplo: 573218138672
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['584120346669', '🜲 Propietario 🜲', true],
-  ['5218715746374'],
-  ['595972157130'],
-  ['5212441357601'],
-  ['50557865603'],
-  ['5216671548329'],
-  ['584148256527'],
-  ['5212431268546'],
-  ['584128382768'],
-  ['5216646666666'],
-  ['5219666666666'],
-  ['593968263524']
+  ['524181450063', '🜲 Propietario 🜲', true],
+  ['527461177130'],
+  ['1(809)6083286'],
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.mods = []
-global.suittag = ['584120346669'] 
+global.suittag = ['524181450063'] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.libreria = 'Baileys'
-global.baileys = 'V 6.7.13' 
+global.baileys = 'V 6.7.16' 
 global.languaje = 'Español'
 global.vs = '2.2.0'
-global.vsJB = '5.0'
-global.nameqr = 'YukiBot-MD'
-global.namebot = '✿◟Yυƙι-Sυσυ-Bσƚ◞✿'
+global.nameqr = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
+global.namebot = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 𝐘𝐮𝐤𝐢-𝐒𝐮𝐨𝐮-𝐁𝐨𝐭 ✰⪜'
-global.botname = 'ᥡᥙkі-sᥙ᥆ᥙ-ᑲ᥆𝗍'
-global.wm = 'ৎ୭࠭͢𝐘𝐮𝐤𝐢_𝐒𝐮𝐨𝐮-𝐁𝐨𝐭ⷭ𓆪͟͞ '
-global.author = 'Made By ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.textbot = 'Yυƙι-Sυσυ-Bσƚ • Powered By ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.etiqueta = 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
+global.packname = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
+global.botname = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
+global.wm = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』'
+global.author = 'Made By 𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
+global.dev = '𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
+global.textbot = '『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』 •  𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
+global.etiqueta = '𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.moneda = '¥enes'
-global.welcom1 = '❍ Edita Con El Comando setwelcome'
-global.welcom2 = '❍ Edita Con El Comando setbye'
-global.banner = 'https://tinyurl.com/27d7rnhu'
-global.avatar = 'https://tinyurl.com/25ru293g'
+global.welcom1 = '❍ Puedes editar con el comando setwelcome'
+global.welcom2 = '❍ Puedes editar con el comando setbye'
+global.banner = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwEyPc2ZcSJLv1nKjMoNcqTD_PZl1Zk9ujraVrJSEw_efKhnurC6XGA6VOj73W-ygzfgfou1-g_3EzCX41BCiLXPvTjcIUy4BL78F9l9MuQlWAIg4E3DjO-Kx-qO-yIIhkOyeYaqDeyx8MW4EusFhzDUqID_Pk2RRUWhDfHErCquK71DBo9v4BhRjtXBNt/s736/b63bb3b9-7464-494f-937f-9aa4394cb124.jpg'
+global.avatar = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwEyPc2ZcSJLv1nKjMoNcqTD_PZl1Zk9ujraVrJSEw_efKhnurC6XGA6VOj73W-ygzfgfou1-g_3EzCX41BCiLXPvTjcIUy4BL78F9l9MuQlWAIg4E3DjO-Kx-qO-yIIhkOyeYaqDeyx8MW4EusFhzDUqID_Pk2RRUWhDfHErCquK71DBo9v4BhRjtXBNt/s736/b63bb3b9-7464-494f-937f-9aa4394cb124.jpg'
+
+//*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
+
+global.gp1 = 'https://chat.whatsapp.com/BWwvJ4h5lzuLhIuXsBK0Wh'
+global.comunidad1 = 'https://chat.whatsapp.com/JONU3lLJhCf0JgCuL13gwk'
+global.channel = 'https://whatsapp.com/channel/0029VbAoYE99hXF1wm3zmQ21'
+global.channel2 = 'https://whatsapp.com/channel/0029VbAoYE99hXF1wm3zmQ21'
+global.md = 'https://github.com/Fer280809/Asta-bot'
+global.correo = 'fernandoagustinservinsanches@gmail.com'
+global.cn ='https://whatsapp.com/channel/0029VbAoYE99hXF1wm3zmQ21';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.catalogo = fs.readFileSync('./src/catalogo.jpg');
-global.photoSity = [catalogo]
-
-//*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
-
-global.gp1 = 'https://chat.whatsapp.com/Ecz881bBgqPIWjDOaKkp7E'
-global.comunidad1 = 'https://chat.whatsapp.com/EwrwcGvpLf1BnMhP3B4axD'
-global.channel = 'https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T'
-global.channel2 = 'https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T'
-global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot'
-global.correo = 'thekingdestroy507@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T';
-
-//*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
-
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
-
-//*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
-
-global.MyApiRestBaseUrl = 'https://api.cafirexos.com';
-global.MyApiRestApikey = 'BrunoSobrino';
-global.openai_org_id = 'org-3';
-global.openai_key = 'sk-0';
-global.keysZens = ['LuOlangNgentot', 'c2459db922', '37CC845916', '6fb0eff124', 'hdiiofficial', 'fiktod', 'BF39D349845E', '675e34de8a', '0b917b905e6f'];
-global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())];
-global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63'];
-global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())];
-global.keysneoxrrr = ['5VC9rvNx', 'cfALv5'];
-global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())];
-global.lolkeysapi = ['kurumi']; // ['BrunoSobrino_2']
-global.itsrose = ['4b146102c4d500809da9d1ff'];
-
-global.APIs = {
-  ApiEmpire: 'https://api-brunosobrino.zipponodes.xyz',
-  xteam: 'https://api.xteam.xyz',
-  dzx: 'https://api.dhamzxploit.my.id',
-  lol: 'https://api.lolhuman.xyz',
-  neoxr: 'https://api.neoxr.my.id',
-  zenzapis: 'https://api.zahwazein.xyz',
-  akuari: 'https://api.akuari.my.id',
-  akuari2: 'https://apimu.my.id',
-  fgmods: 'https://api-fgmods.ddns.net',
-  botcahx: 'https://api.botcahx.biz.id',
-  ibeng: 'https://api.ibeng.tech/docs',
-  rose: 'https://api.itsrose.site',
-  popcat: 'https://api.popcat.xyz',
-  xcoders: 'https://api-xcoders.site',
-  vihangayt: 'https://vihangayt.me',
-  erdwpe: 'https://api.erdwpe.com',
-  xyroinee: 'https://api.xyroinee.xyz',
-  nekobot: 'https://nekobot.xyz'
-},
-global.APIKeys = {
-  'https://api.xteam.xyz': `${keysxteam}`,
-  'https://api.lolhuman.xyz': 'GataDios',
-  'https://api.neoxr.my.id': `${keysneoxr}`,
-  'https://api.zahwazein.xyz': `${keysxxx}`,
-  'https://api-fgmods.ddns.net': 'fg-dylux',
-  'https://api.botcahx.biz.id': 'Admin',
-  'https://api.ibeng.tech/docs': 'tamvan',
-  'https://api.itsrose.site': 'Rs-Zeltoria',
-  'https://api-xcoders.site': 'Frieren',
-  'https://api.xyroinee.xyz': 'uwgflzFEh6'
-};
+global.ch = {
+ch1: '120363322713003916@newsletter',
+}
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -205,3 +146,4 @@ watchFile(file, () => {
   console.log(chalk.redBright("Update 'settings.js'"))
   import(`${file}?update=${Date.now()}`)
 })
+
